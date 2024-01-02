@@ -1,0 +1,40 @@
+{
+    "firstName":"Petr",
+    "lastName":"Petrov",
+    "address":{
+    "streetAddress":"Moscow avenue, 101, flat.101",
+    "city":"Piter",
+    "postalCode":101101
+    },
+    "phoneNumbers":[
+        8121231237,
+        9161234567
+        ]
+}
+{
+    "firstName":"Ivan",
+    "lastName":"Ivanov",
+    "address":{
+    "streetAddress":"Moscow avenue, 101, flat.101",
+    "city":"Moscow",
+    "postalCode":101101
+    },
+   "phoneNumbers":[
+       8121231237,
+       9161234567
+       ]
+}
+{
+    "firstName":"Sidor",
+    "lastName":"Sidorov",
+    "address":{
+    "streetAddress":"Moscow avenue, 101, flat.101",
+    "city":"Kiev",
+    "postalCode":101101
+    },
+    "phoneNumbers":[
+    8121231237,
+    9161234567
+    ]
+}
+

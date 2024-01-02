@@ -1,0 +1,16 @@
+package tasksByBook.lesson13.task_57byBook;
+
+public interface ConstantConteiner {
+    int COUNT_OF_PRODUCERS = 3;
+    int COUNT_OF_CONSUMERS = 2;
+    int START_COUNT_OF_ELEMENTS = 200;
+    int MIN_VALUE_OF_ELEMENT = 1;
+    int MAX_VALUE_OF_ELEMENT = 100;
+    int MAX_COUNT_OF_ELEMENTS_TO_SLEEP_PRODUCERS = 100;
+    int MIN_COUNT_OF_ELEMENTS_TO_SLEEP_PRODUCERS = 80;
+    int COUNT_OF_ELEMENTS_TO_SLEEP_CONSUMERS = 0;
+    int COUNT_OF_ELEMENTS_TO_STOP_PROCESS = 10_000;
+    long COUNT_OF_MILLIS_TO_SLEEP=1;
+    String PRODUSERS_NAME = "_Prod";
+    String CONSUMERS_NAME = "Cons_";
+}
